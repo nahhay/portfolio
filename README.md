@@ -43,8 +43,6 @@ Para visualizar o portfólio localmente, basta abrir o arquivo `index.html` no n
 Não é necessário instalar dependências.
 
 ## Contato
-
-- **GitHub:** https://github.com/nahhay
 - **LinkedIn:** https://www.linkedin.com/in/nathalyalencardev/
 - **Figma:** https://www.figma.com/design/J6bqbruSysltn829uLYds0/Untitled?m=auto&t=uOMAsTY8EIRe84Qf-6
   (Link do projeto no figma).
