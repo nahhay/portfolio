@@ -38,7 +38,7 @@ O HTML organiza o conteúdo, o CSS define a aparência e o JavaScript controla a
 
 ## Execução
 
-Para visualizar o portfólio localmente, basta abrir o arquivo `index.html` no navegador ou utilizar a extensão Live Server no VS Code.
+https://nahhay.github.io/portfolio/
 
 Não é necessário instalar dependências.
 
